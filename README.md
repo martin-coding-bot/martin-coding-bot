@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martin-coding-bot
 - 👀 I’m interested in Power Platform, Java Script, Python
-- 🌱 I’m currently learning Power Platform, Java Script, Python
+- 🌱 I’m currently cooking in learning Power Platform, Java Script, Python
 - 💞️ I’m looking to collaborate on Power Platform, Java Script, Python
 - 📫 How to reach me https://github.com/martin-coding-bot
 - 😄 Pronouns: not a bot
